@@ -1,0 +1,26 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  color: red;
+}
+
+.input-container {
+  margin: 10px;
+}
+
+.input {
+  color: red;
+  padding: 5px 10px;
+  border: none;
+  background-color: #333;
+  cursor: pointer;
+}
+
+.input:hover {
+  background-color: #444;
+  
